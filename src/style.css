@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to left, rgb(154, 129, 243),rgb(92, 238, 92));
+}
+.ip_elem1{
+    margin-left: 30%;
+    border-radius: 8px;
+    margin-right: 75px;
+    font-size: 30px;
+}
+.ip_elem2{
+    margin-left: 30%;
+    border-radius: 8px;
+    margin-right: 5px;
+    font-size: 30px;
+}
+.ip_elem3{
+    margin-left: 30%;
+    border-radius: 8px;
+    margin-right: 70px;
+    font-size: 30px;
+}
+
+.ip{
+    height: 40px;
+    border-radius: 10px;
+}
+.sub_btn{
+    margin-top: 30px;
+    margin-left: 40%;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(44, 150, 150);
+}
+.sub_btn:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
+.details{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:20px ;
+}
+
+#inner_container{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: gold;
+}
